@@ -11,14 +11,10 @@
             "id": "48f07b93aa3609bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tomcat.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tomcat"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tomcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Tomcat 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -142,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tomcat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Tomcat 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -172,6 +166,23 @@
   },
   "active": "48f07b93aa3609bf",
   "lastOpenFiles": [
-    "Tomcat.md"
+    "JavaWeb/JavaWeb.md",
+    "JavaWeb/MySQL.md",
+    "JavaWeb/React.md",
+    "JavaWeb/Vue.md",
+    "JavaWeb/ajax.md",
+    "JavaWeb/jQuery.md",
+    "JavaWeb/JavaScript.md",
+    "JavaWeb/Listener.md",
+    "JavaWeb/Filter.md",
+    "JavaWeb/JSTL标签库.md",
+    "JavaWeb/EL表达式.md",
+    "JavaWeb/JSP.md",
+    "JavaWeb/Servlet.md",
+    "JavaWeb/CSS.md",
+    "JavaWeb/HTML.md",
+    "JavaWeb/JDBC.md",
+    "JavaWeb/Tomcat.md",
+    "JavaWeb"
   ]
 }
