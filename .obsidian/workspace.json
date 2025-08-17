@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd5083edaa70815a",
+        "id": "767f6e303b51ae97",
         "type": "tabs",
         "children": [
           {
-            "id": "48f07b93aa3609bf",
+            "id": "38fcd61a702856d7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Build/Maven.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maven"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86b3fdfded95f561",
@@ -155,20 +160,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e44c1e60e72b73d2",
+  "active": "38fcd61a702856d7",
   "lastOpenFiles": [
+    "images/Build/Maven/maven_download.png",
+    "images/Build/Maven/maven_home.png",
+    "Build/Maven.md",
+    "images/Build/Maven/maven_idea_configure.png",
+    "Pasted image 20250817121012.png",
+    "images/Build/Maven/maven_path.png",
+    "images/Build/Maven",
+    "images/Build",
+    "images",
+    "images/Build/Maven/maven_verify.png",
     "README.md",
-    "JavaWeb/JavaWeb.md",
+    "Build",
     "JavaWeb/MySQL.md",
+    "JavaWeb/Tomcat.md",
+    "JavaWeb/JavaWeb.md",
     "JavaWeb/React.md",
     "JavaWeb/Vue.md",
     "JavaWeb/ajax.md",
@@ -183,7 +200,6 @@
     "JavaWeb/CSS.md",
     "JavaWeb/HTML.md",
     "JavaWeb/JDBC.md",
-    "JavaWeb/Tomcat.md",
     "JavaWeb"
   ]
 }
