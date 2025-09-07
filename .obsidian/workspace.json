@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaWeb/MySQL.md",
+                "file": "MySQL/2. MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MySQL"
+              "title": "2. MySQL"
             }
           }
         ]
@@ -141,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "MySQL/2. MySQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline of 2. MySQL"
             }
           }
         ],
@@ -154,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,9 +170,18 @@
   },
   "active": "8a02367f85fae3f5",
   "lastOpenFiles": [
+    "Build/Build.md",
+    "Build/Maven.md",
+    "MySQL/MySQL.md",
+    "JavaWeb/JavaWeb.md",
+    "MySQL/2. MySQL.md",
+    "README.md",
+    "MySQL/1. 安装与配置.md",
+    "MySQL",
+    "JavaWeb/JDBC.md",
+    "JavaWeb/ajax.md",
     "images/MySQL/mysql_client.png",
     "images/MySQL/mysql_client_enter.png",
-    "JavaWeb/MySQL.md",
     "images/MySQL/mysql_configuration_apply.png",
     "Pasted image 20250820114630.png",
     "images/MySQL/mysql_verify.png",
@@ -182,17 +191,13 @@
     "images/MySQL/mysql_select_features_to_install.png",
     "images/MySQL/mysql_path_conflicts.png",
     "images/MySQL",
-    "Build/Maven.md",
     "JavaWeb/Tomcat.md",
     "images/Build/Maven",
     "images/Build",
     "images",
-    "README.md",
     "Build",
-    "JavaWeb/JavaWeb.md",
     "JavaWeb/React.md",
     "JavaWeb/Vue.md",
-    "JavaWeb/ajax.md",
     "JavaWeb/jQuery.md",
     "JavaWeb/JavaScript.md",
     "JavaWeb/Listener.md",
@@ -203,7 +208,6 @@
     "JavaWeb/Servlet.md",
     "JavaWeb/CSS.md",
     "JavaWeb/HTML.md",
-    "JavaWeb/JDBC.md",
     "JavaWeb"
   ]
 }
